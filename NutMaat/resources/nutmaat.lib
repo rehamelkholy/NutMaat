@@ -1,0 +1,36 @@
+LIB libr18
+WAVE 3800.0 4620.0 0.5
+LIMIT O9 K3
+PRELIM shift
+TEMPLATE no
+-------------------
+LIB libr18_225
+WAVE 3800.0 4620.0 0.5
+LIMIT A5 K3
+PRELIM shift
+TEMPLATE no
+-------------------
+LIB libnor36
+WAVE 3800.0 5600.0 1.0
+LIMIT O6 M5
+PRELIM norm,shift
+TEMPLATE yes
+-------------------
+LIB libr36
+WAVE 3800.0 5600.0 1.0
+LIMIT O6 K3
+PRELIM shift
+TEMPLATE no
+-------------------
+LIB libr18_27
+WAVE 3800.0 4620.0 0.5
+LIMIT A5 K3
+PRELIM shift
+TEMPLATE no
+-------------------
+LIB libr18_30
+WAVE 3800.0 4620.0 0.5
+LIMIT A5 K3
+PRELIM shift
+TEMPLATE no
+-------------------

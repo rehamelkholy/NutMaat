@@ -1,0 +1,9 @@
+*pyc
+*.vscode
+.ipynb_checkpoints
+*~
+*#
+__pycache__
+build/
+dist/
+NutMaat.egg-info/

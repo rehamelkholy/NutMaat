@@ -1,0 +1,5 @@
+LIB my_lib
+WAVE 3800.0 5600.0 1.0
+LIMIT O6 M5
+PRELIM norm,shift
+TEMPLATE yes
