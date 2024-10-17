@@ -1,17 +1,12 @@
 <p align="center">
-    <img src="data\NutMaat.jpg" alt="NutMaat" style="width: 200px;">
+    <img src=".\data\NutMaat.jpg" alt="NutMaat" style="width: 400px;">
 </p>
 
 # NutMaat
 
-![GitHub Created At](https://img.shields.io/github/created-at/rehamelkholy/NutMaat)
-[![GitHub License](https://img.shields.io/github/license/rehamelkholy/NutMaat)](https://github.com/rehamelkholy/NutMaat/blob/main/LICENSE.txt)
-[![GitHub Release](https://img.shields.io/github/v/release/rehamelkholy/NutMaat)](https://github.com/rehamelkholy/NutMaat/releases/latest)
+![GitHub Created At](https://img.shields.io/github/created-at/rehamelkholy/NutMaat) ![GitHub License](https://img.shields.io/github/license/rehamelkholy/NutMaat) ![GitHub last commit](https://img.shields.io/github/last-commit/rehamelkholy/NutMaat) ![GitHub repo size](https://img.shields.io/github/repo-size/rehamelkholy/NutMaat) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/rehamelkholy/NutMaat) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/NutMaat) ![Maintenance](https://img.shields.io/maintenance/yes/2024) ![PyPI - Version](https://img.shields.io/pypi/v/NutMaat)
 
-
-
-
-![GitHub forks](https://img.shields.io/github/forks/rehamelkholy/NutMaat)
+![GitHub watchers](https://img.shields.io/github/watchers/rehamelkholy/NutMaat) ![GitHub Repo stars](https://img.shields.io/github/stars/rehamelkholy/NutMaat) ![GitHub forks](https://img.shields.io/github/forks/rehamelkholy/NutMaat)
 
 
 **NutMaat** is a Python package designed to classify stellar spectra on the MK Spectral Classification system in a way similar to humans—by direct comparison with the MK classification standards, based on the `MKCLASS` C package. The package is OS-independent, installable via `pip`, and integrated with to work with `pandas` data frames.
@@ -37,11 +32,11 @@
 - Batching large number of stars for classification
 
 <p align="center">
-    <img src="data\spt_fit.png" alt="spectral type results" style="width: 400px;">
+    <img src=".\data\spt_fit.png" alt="spectral type results" style="width: 600px;">
 </p>
 
 <p align="center">
-    <img src="data\lum_error.png" alt="luminosity class error histogram" style="width: 400px;">
+    <img src=".\data\lum_error.png" alt="luminosity class error histogram" style="width: 600px;">
 </p>
 
 ## Installation
